@@ -1,6 +1,7 @@
 import { useState } from 'react';
 // components
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 // pages
 import Home from './pages/Home';
 
@@ -22,6 +23,7 @@ function App() {
       <>
         <Navbar />
         {PageComponent}
+        <Footer />
       </>
     </main>
   )
