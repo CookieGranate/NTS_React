@@ -1,0 +1,16 @@
+* {
+    list-style: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    background-color: #060818;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
