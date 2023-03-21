@@ -1,0 +1,14 @@
+#partnersdiv {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: -200px;
+}
+
+.partner img {
+    width: 100px;
+}
+
+.partner a {
+    color: #fff;
+}

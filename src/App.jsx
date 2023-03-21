@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 // pages
 import Home from './pages/Home';
+import Partners from './pages/Partners';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,6 +17,9 @@ function App() {
       case '/download':
         // PageComponent = <Download />
         break;
+        case '/partnerships':
+          PageComponent = <Partners />
+          break
   }
 
   return (
