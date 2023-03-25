@@ -20,6 +20,11 @@
     margin-top: 10px;
     margin-left: 60px;
     font-size: 20px;
+    color: #f3f3f3;
+}
+
+#logotext :hover {
+    color: #fff;
 }
 
 #logo {

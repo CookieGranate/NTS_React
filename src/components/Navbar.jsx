@@ -29,7 +29,7 @@ const Navbar = () => {
 
                 <div id="right">
                     <div id="download">
-                        <a href="/downlaod">
+                        <a href="/download">
                             Download App
                         </a>
                     </div>

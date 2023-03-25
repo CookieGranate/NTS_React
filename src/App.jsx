@@ -19,7 +19,7 @@ function App() {
         break;
         case '/partnerships':
           PageComponent = <Partners />
-          break
+          break;
   }
 
   return (
